@@ -1,0 +1,68 @@
+[
+  {
+    "SeatLimit": 60,
+    "HasProjector": true,
+    "HasWhiteboard": true,
+    "RoomName": "Delfinen",
+    "RoomType": "Classroom",
+    "SeatAmount": 20
+  },
+  {
+    "SeatLimit": 60,
+    "HasProjector": false,
+    "HasWhiteboard": true,
+    "RoomName": "Späckhuggaren",
+    "RoomType": "Classroom",
+    "SeatAmount": 20
+  },
+  {
+    "SeatLimit": 15,
+    "RoomName": "Hajen",
+    "RoomType": "Group room",
+    "SeatAmount": 8
+  },
+  {
+    "SeatLimit": 15,
+    "RoomName": "Bläckfisken",
+    "RoomType": "Group room",
+    "SeatAmount": 8
+  },
+  {
+    "SeatLimit": 120,
+    "HasProjector": true,
+    "HasWhiteboard": true,
+    "RoomName": "Krabban",
+    "RoomType": "Hall",
+    "SeatAmount": 40
+  },
+  {
+    "SeatLimit": 120,
+    "HasProjector": true,
+    "HasWhiteboard": true,
+    "RoomName": "Snäckan",
+    "RoomType": "Hall",
+    "SeatAmount": 40
+  },
+  {
+    "SeatLimit": 120,
+    "HasProjector": true,
+    "HasWhiteboard": true,
+    "RoomName": "Sköldpaddan",
+    "RoomType": "Hall",
+    "SeatAmount": 55
+  },
+  {
+    "SeatLimit": 15,
+    "RoomName": "Abborren",
+    "RoomType": "Group room",
+    "SeatAmount": 9
+  },
+  {
+    "SeatLimit": 120,
+    "HasProjector": false,
+    "HasWhiteboard": true,
+    "RoomName": "rew",
+    "RoomType": "Hall",
+    "SeatAmount": 20
+  }
+]
